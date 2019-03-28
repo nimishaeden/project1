@@ -7,5 +7,5 @@ while(arm>0):
       arm//=10
 if x==sum: 
    print(x,"is an armstrong")
-else:
-    print(x,"is not an armstrong")       
+else
+
